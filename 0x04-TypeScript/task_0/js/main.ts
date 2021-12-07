@@ -8,17 +8,17 @@ interface Student {
 }
 
 const studentA: Student = {
-  firstName: 'Sofia',
-  lastName: 'Cheung',
-  age: 19,
-  location: 'California',
+  firstName: 'Goku',
+  lastName: 'Son',
+  age: 23,
+  location: 'Earth',
 }
 
 const studentB: Student = {
-  firstName: 'Mafer',
-  lastName: 'Morales',
-  age: 19,
-  location: 'Panama',
+  firstName: 'Monkey',
+  lastName: 'dLuffy',
+  age: 15,
+  location: 'Unknoe',
 }
 
 const studentList = [studentA, studentB];
